@@ -1,7 +1,24 @@
-do your pulls/commits/Push/
+# Pull Changes from main branch to your branch
 
 
-on your branch(NAME-CRT) push the changes to MAIN-WALL
+git checkout SON1
+git fetch origin
+git merge origin/MAIN-WALL
+
+# Push Changes from SON to PARENT
+
+First do your pulls/commits/Push/
+and Run this 
+
+```
+git checkout MAIN-WALL
+git merge SON1
+git push
+```
+
+and is done
+
+
 git merge origin/MAIN-WALL
 
 
@@ -29,10 +46,3 @@ git commit -m "Merge feature-branch into target-branch"
 ```
 git push
 ```
-
-COMPLETE EXAMPLE
-git checkout MAIN-WALL
-git merge SON1
-git push
-
-and is done
