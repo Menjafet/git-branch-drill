@@ -34,3 +34,5 @@ COMPLETE EXAMPLE
 git checkout MAIN-WALL
 git merge SON1
 git push
+
+and is done
