@@ -33,6 +33,4 @@ git push
 COMPLETE EXAMPLE
 git checkout MAIN-WALL
 git merge SON1
-git add .
-git commit -m "Merge SON1 into target-branch"
-LETS SEE
+git push
