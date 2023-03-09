@@ -4,6 +4,7 @@
 git checkout SON1
 git fetch origin
 git merge origin/MAIN-WALL
+git push
 ```
 ####after running this *Now push the commit*
 
