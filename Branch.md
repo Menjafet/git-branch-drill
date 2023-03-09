@@ -1,5 +1,5 @@
-do commits
+do your pulls/commits/Push/
 
-then
-ON SON1(YOUR BRANCH) PUSH THE MAIN WALL CHANGES
+
+on your branch(NAME-CRT) push the changes to MAIN-WALL
 git merge origin/MAIN-WALL
