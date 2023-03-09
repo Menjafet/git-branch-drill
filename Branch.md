@@ -1,11 +1,8 @@
 do commits
 
 then
+ON SON PUSH THE MAIN WALL CHANGES
 
 git merge origin/MAIN-WALL
 
-<<<<<<< HEAD
 git merge origin/MAIN-WALL
-=======
-git merge origin/SON1
->>>>>>> origin/MAIN-WALL
